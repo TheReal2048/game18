@@ -183,18 +183,18 @@ hr {
       margin-top: 59px; }
     .game-container .game-message a {
       display: inline-block;
-      background: #FFFFFF;
+      background: #8f7a66;
       border-radius: 3px;
       padding: 0 20px;
       text-decoration: none;
-      color: #003A92;
+      color: #f9f6f2;
       height: 40px;
       line-height: 42px;
       margin-left: 9px; }
       .game-container .game-message a.keep-playing-button {
         display: none; }
     .game-container .game-message.game-won {
-      background: rgba(237, 194, 46, 0.5);
+      background: rgba(0, 126, 229, 0.5);
       color: #f9f6f2; }
       .game-container .game-message.game-won a.keep-playing-button {
         display: inline-block; }
